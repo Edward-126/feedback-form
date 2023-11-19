@@ -1,0 +1,28 @@
+.sign-up {
+  max-width: 700px;
+  padding: 9px;
+  padding-top: 4rem;
+}
+
+.sign-up img {
+  width: 90px;
+}
+
+.heading {
+  font-size: 1.9rem;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.form-floating:focus-within {
+  z-index: 2;
+}
+
+.float-lable {
+  font-size: 1rem;
+  margin-left: 5px;
+}

@@ -1,0 +1,23 @@
+:root {
+  --mainhc: #f74349;
+  --mainhc2: #ff565b;
+  --mainc: #363636;
+  --mainc2: #585858;
+}
+
+span.main-c {
+  color: var(--mainhc);
+}
+
+button.abc-button {
+  background-color: var(--mainc);
+  border: 1px solid var(--mainc);
+  color: #fff;
+  height: 45px;
+}
+
+button.abc-button:hover {
+  background-color: var(--mainc2);
+  border: 1px solid var(--mainc2);
+  color: #fff;
+}
